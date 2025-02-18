@@ -17,10 +17,14 @@ You can view my portfolio live at:
 
 ## 📂 Projects
 Below are some of the projects featured in this repository:
-
+### 🎮 [Blue Boy Adventure](https://github.com/tymastrangelo/Blue-Boy-Adventure)
+A simple yet functional web calculator built using **HTML, CSS, and JavaScript**.  
 ### 🧮 [Calculator](https://github.com/tymastrangelo/calculator)
 A simple yet functional web calculator built using **HTML, CSS, and JavaScript**.  
-🔗 **[Try it Here](https://tymastrangelo.github.io/projects/calculator/)**  
+🔗 **[Try it Here](https://tymastrangelo.com/projects/calculator/index.html)**  
+### 🎱 [Magic 8ball](https://github.com/tymastrangelo/magic-8ball)
+A simple yet functional web calculator built using **HTML, CSS, and JavaScript**.  
+🔗 **[Try it Here](https://tymastrangelo.com/projects/8ball/index.html)**  
 
 ---
 
